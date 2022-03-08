@@ -31,7 +31,7 @@ I also filtered this data from 2000-2017 to present a more current image of glob
 
 
 ## Quintile Visualization
-![image info](Quantile.png)
+![image info](Quintile.png)
 
 In the above visualization, I plot the average quintile shares of resource for each subregion from 2000-2017. Quintile shares of resource measure the percent share of a country's total income that each economic group, divided into fifths, holds. For example, if Q1 for a specific country is equal to 7%, that means that the poorest 20% of a population earns 7% of the country's total income. I choose to group these values by subregion rather than by country because the graph would have been extremely messy had I tried to represent Q1 through Q5 for each country. Additionally, I found enough variability between subregions to justify grouping the data in this way.
 
